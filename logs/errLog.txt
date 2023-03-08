@@ -1,0 +1,11 @@
+05.03.2023	19:26:22	00d386f6-92b5-4665-8dd4-85e101e86494	TypeError: fsPromises.readFil is not a function
+05.03.2023	21:26:16	e25472f7-3d31-422a-a17f-41a01f3b505c	Error: Not allowed by CORS
+05.03.2023	23:45:56	c45098c4-2a9d-46c3-a741-41d08e45a7c8	Error: ENOENT: no such file or directory, stat 'C:\Users\Hp Elitebook G8\Desktop\node\routes\views\index.html'
+06.03.2023	00:08:04	2dc8196b-f14c-40be-89e3-a1f02043fdde	SyntaxError: Unexpected token } in JSON at position 57
+08.03.2023	11:31:23	a237be16-6fc5-476e-b9c8-34e155628cdc	SyntaxError: Unexpected token } in JSON at position 37
+08.03.2023	17:53:07	644a9aca-9aa1-4cf0-ae11-9002251a6a7b	ReferenceError: accessToken is not defined
+08.03.2023	17:53:17	9d0418ba-2e07-40a0-9297-931e7df30053	ReferenceError: accessToken is not defined
+08.03.2023	17:53:28	6d7cc3b0-204f-4564-9da5-b855b44b4eae	ReferenceError: accessToken is not defined
+08.03.2023	17:55:12	2c085fb8-0e5a-43f5-bede-585b85ccff5d	ReferenceError: accessToken is not defined
+08.03.2023	17:55:58	8d4f771b-8895-4857-8a96-6f0a18b5d1c8	ReferenceError: accessToken is not defined
+08.03.2023	23:12:15	c74a544c-388b-47b3-b3ff-a7b6f6c95e63	SyntaxError: Unexpected token } in JSON at position 45
